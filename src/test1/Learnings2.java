@@ -14,7 +14,7 @@ public class Learnings2 {
 	@Test
 	public void Ball()
 	{
-		System.out.println("Ball-Learnings2");
+		System.out.println("Added new feature");
 	}
 	
 	@Test
