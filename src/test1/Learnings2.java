@@ -22,5 +22,9 @@ public class Learnings2 {
 	{
 		System.out.println("Cap-Learnings2");
 	}
+	public void Cap1()
+	{
+		System.out.println("Cap-Learnings2");
+	}
 	
 }
