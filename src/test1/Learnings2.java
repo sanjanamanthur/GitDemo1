@@ -20,7 +20,7 @@ public class Learnings2 {
 	@Test
 	public void Cap()
 	{
-		System.out.println("Cap-Learnings2");
+		System.out.println("Cap-Learnings2ww");
 	}
 	
 }
